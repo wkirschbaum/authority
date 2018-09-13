@@ -1,4 +1,4 @@
-require "authority/railtie"
+require 'authority/railtie'
 
 module Authority
   # Your code goes here...
