@@ -1,5 +1,6 @@
 require 'authority/railtie'
+require 'authority/error'
 
 module Authority
-  # Your code goes here...
+  autoload :Authorizable, 'authority/authorizable'
 end
