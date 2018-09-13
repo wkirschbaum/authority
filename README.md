@@ -1,4 +1,5 @@
-# Authority
+
+# Authority ![travis](https://travis-ci.org/wkirschbaum/authority.svg?branch=master)
 Short description and motivation.
 
 ## Usage
